@@ -1,1 +1,1 @@
-Organización_Computadores
+Respaldo de los laboratorios del curso Organización de Computadores.
